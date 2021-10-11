@@ -6,4 +6,6 @@ This website was created on Monday, November 26, 2018, 2:40:34 PM; modified on S
 
 Tool for creating this website: **dreamweaver8**
 <br>
-[View website](https://mksalada.github.io/house-alley/)
+[View website](https://housealley.netlify.app/)
+<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9536c4ec-2a13-4223-a351-d2a6062c4aaf/deploy-status)](https://app.netlify.com/sites/housealley/deploys)
